@@ -35,7 +35,7 @@
 ---
 
 ### 🤝 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dinura-sanmith-9a3917296/)  
 - 🌐 [Portfolio](https://yourportfolio.com)  
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
