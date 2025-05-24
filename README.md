@@ -3,22 +3,18 @@
 ### 🎓 About Me
 - 🎓 **Undergraduate Student** | **2nd Year, 2nd Semester** at [SLIIT](https://www.sliit.lk/)
 - 📚 Currently learning **Android App Development with Kotlin** and the **MERN Stack**.
-- 💻 Proficient in:
-  - **Front-End**: HTML, CSS, JavaScript
-  - **Back-End**: PHP
-  - **Programming Languages**: C, C++, Java
 - 🌟 Aspiring to become a versatile **Full-Stack Developer**.
 
 ---
 
 ### 🚀 My Skills
-| **Category**       | **Technologies**                                       |
-|---------------------|-------------------------------------------------------|
-| **Front-End**       | HTML, CSS, JavaScript                                 |
-| **Back-End**        | PHP                                                   |
-| **Programming**     | C, C++, Java                                          |
-| **App Development** | Kotlin (Android)                                      |
-| **Full-Stack**      | MERN Stack (MongoDB, Express, React, Node.js)         |
+| **Category**            | **Technologies**                                      |
+|-------------------------|-------------------------------------------------------|
+| **Languages**           | Java, Kotlin, JavaScript                              |
+| **Full-Stack**          | MERN Stack                                            |
+| **FrontEnd Frameworks** | Bootsrap, Tailwind                                    |
+| **Databases**           | MySQL, MongoDB                                        |
+| **Tools & Platforms**   | Git, GitHub, Figma                                    |
 
 ---
 
