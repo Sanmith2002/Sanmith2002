@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sanmith!
 
 ### 🎓 About Me
-- 🎓 **Undergraduate Student** | **2nd Year, 2nd Semester** at [SLIIT](https://www.sliit.lk/)
+- 🎓 **Undergraduate Student** | **3rd Year, 1st Semester** at [SLIIT](https://www.sliit.lk/)
 - 📚 Currently learning **Android App Development with Kotlin** and the **MERN Stack**.
 - 🌟 Aspiring to become a versatile **Full-Stack Developer**.
 
