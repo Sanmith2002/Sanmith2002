@@ -189,19 +189,7 @@ MLOps & Model Deployment       ██████████████░░�
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanmith2002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanmith2002&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanmith2002&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanmith2002&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanmith2002&show_icons=true&theme=algolia&hide_border=true&cache_seconds=1800"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanmith2002&layout=compact&theme=algolia&hide_border=true&cache_seconds=1800"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=Sanmith2002&theme=algolia&hide_border=true"/> </div>
 ---
 
 ## 🎯 Current Focus
